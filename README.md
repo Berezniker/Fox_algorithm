@@ -1,2 +1,3 @@
-# MSU_CMC_SKPOD_FOX
-Development of a parallel version of the program for matrix multiplication using the Fox algorithm
+Практическое задание по курсу ***Суперкомпьютеры и параллельная обработка данных***.
+
+Разработка параллельной версии программы для перемножения матриц на основе алгоритма Фокса с использованием технологий *OpenMPI* и *MPI*.
